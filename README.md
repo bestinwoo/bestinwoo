@@ -1,6 +1,7 @@
-### Hello, I'm Best Inu 💻
+# Hello, I'm Best Inu 💻
 
 <p><strong> Backend Developer </strong> </p>
+<h3 align="center"> ⚙️ Bestinu's Tech Stack </h3>
 
 <p align="center"> [Techs] that I've used at least once 🌱 </p>
 <p align="center">
@@ -9,7 +10,6 @@
   <br>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat-square&logo=SpringSecurity&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/SpringBatch-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/OracleDB-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp
@@ -28,9 +28,12 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>&nbsp
 </p>
 
-
+<div align="center">
   <!--  github stats   -->
+  
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bestinwoo&show_icons=true&theme=gruvbox&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
 
 
 <hr>
@@ -39,12 +42,27 @@
 </div> 
 <hr>
 
+
+
+<div align="center">
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bestinwoo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
+
+<hr>
+
+
+
+
+
+
 <!--
-**bestinwoo/bestinwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
+
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
