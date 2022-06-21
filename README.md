@@ -28,11 +28,10 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>&nbsp
 </p>
 
-<div align="center">
+
   <!--  github stats   -->
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bestinwoo&show_icons=true&theme=gruvbox&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
+
 
 <hr>
 <div align = "center">
