@@ -23,7 +23,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/IntelliJ-f62f5a?style=flat-square&logo=IntelliJIDEA&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Eclipse-2c2255?style=flat-square&logo=eclipseide&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Postman-FF6c37?style=flat-square&logo=postman&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/></a>&nbsp
