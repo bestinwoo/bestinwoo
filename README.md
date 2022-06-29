@@ -21,6 +21,7 @@
 <p align="center"> [Tools] that I've used at least once 🛠 </p>
   
 <p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/IntelliJ-f62f5a?style=flat-square&logo=IntelliJIDEA&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Eclipse-2c2255?style=flat-square&logo=eclipseide&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Postman-FF6c37?style=flat-square&logo=postman&logoColor=white"/></a>&nbsp
